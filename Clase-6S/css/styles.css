@@ -1,0 +1,34 @@
+header {
+    background-color: #E6E6E6;}
+
+
+span { 
+    font-weight: bold;
+}
+*.cursiva {
+    font-style: italic;
+}
+
+
+.titulo {
+    background-color: #C4C4C4; 
+    font-family: Times New Roman;
+    font-size: 35px;
+    color: #005677;}
+
+h2 {
+    background-color:#C4C4C4; 
+    font-family: Times New Roman;
+    font-size: 20px ;
+    color: #005677;}
+
+div {
+    background-color: #005677;
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    background-image: url(../img/ico_instagram.png), url(../img/ico_linkedin.png);
+    background-repeat: no-repeat; 
+    background-position:61%, 65%
+}
